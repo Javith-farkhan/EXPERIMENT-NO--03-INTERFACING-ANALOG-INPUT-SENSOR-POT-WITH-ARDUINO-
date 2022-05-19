@@ -103,9 +103,8 @@ void loop()
 **Simulation output:** 
 **
 
+[!robotics ex2](user-images.githubusercontent.com/94296805/169286653-ed6b95c5-851b-4cdd-a3c9-7177b95f809d.png)
 
-(![robotics ex2](user-images.githubusercontent.com/94296805/169286653-ed6b95c5-851b-4cdd-a3c9-7177b95f809d.png)
-)
 
 
 
