@@ -103,7 +103,7 @@ void loop()
 **Simulation output:** 
 **
 
-[!robotics ex2](user-images.githubusercontent.com/94296805/169286653-ed6b95c5-851b-4cdd-a3c9-7177b95f809d.png)
+![Gitlogo](robotics ex2.png)
 
 
 
@@ -112,4 +112,6 @@ void loop()
 
 
 
-**RESULT: ** Arduino uno analog input functioning is learned and interfaced with digital input switch .
+**RESULT: **
+
+Arduino uno analog input functioning is learned and interfaced with digital input switch .
