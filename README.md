@@ -100,8 +100,7 @@ void loop()
 
 
 **
-**Simulation output:** 
-**
+Simulation output:
 
 ![Gitlogo](robotics ex2.png)
 
