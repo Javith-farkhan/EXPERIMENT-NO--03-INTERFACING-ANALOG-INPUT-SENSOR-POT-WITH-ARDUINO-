@@ -67,6 +67,28 @@ CIRCUIT DIAGRAM
 
 
 **PROGRAM** 
+```
+int potPin=A5;
+int ledPin= 2;
+
+void setup()
+{
+  pinMode (potPin, INPUT);
+  pinMode (ledPin, OUTPUT);
+  Serial.begin(9600);
+}
+void loop()
+{
+  int PotMeasure = analogRead(A5);
+  
+ if (PotMeasure >=450)
+ {
+   digitalWrite (2, HIGH);
+ }
+  else
+    digitalWrite(2, LOW);
+}
+```
  
 
 
@@ -82,7 +104,8 @@ CIRCUIT DIAGRAM
 **
 
 
-[My image](username.github.com/repository/img/image.jpg)
+(![robotics ex2](user-images.githubusercontent.com/94296805/169286653-ed6b95c5-851b-4cdd-a3c9-7177b95f809d.png)
+)
 
 
 
