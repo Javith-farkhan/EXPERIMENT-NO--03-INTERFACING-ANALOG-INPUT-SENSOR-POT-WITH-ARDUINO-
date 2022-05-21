@@ -102,7 +102,7 @@ void loop()
 **
 Simulation output:
 
-![Gitlogo](ex2.png)
+![gitlogo](ex2.png)
 
 
 
