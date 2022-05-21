@@ -102,7 +102,7 @@ void loop()
 **
 Simulation output:
 
-![Gitlogo](robotics ex2.png)
+![Gitlogo](ex2.png)
 
 
 
